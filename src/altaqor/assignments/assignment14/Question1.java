@@ -6,9 +6,12 @@ public class Question1 {
 		 int i = 0;	
 		 
 		 while(i<10) {
-			 System.out.println("upendra, Nepal!");
+			 System.out.println("name=upendra, country= Nepal!");
 			 i++;
 		 }
+		 
+			 
+		 } 
 	}
 	
 	 
@@ -16,4 +19,4 @@ public class Question1 {
 	
 		
 
-}
+
